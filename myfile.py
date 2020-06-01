@@ -1,4 +1,2 @@
 print("Hello World")
-bbbbdddddd
-mmmmmmmm
-sdfsdfsdfsdf
+print("All Good")
